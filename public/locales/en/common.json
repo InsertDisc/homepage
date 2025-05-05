@@ -1043,10 +1043,26 @@
         "uploads": "Uploads",
         "sharedFiles": "Files"
     },
+
     "jellystat": {
         "songs": "Songs",
         "movies": "Movies",
         "episodes": "Episodes",
         "other": "Other"
+    },
+
+    "satisfactory": {
+        "serverName": "Server Name",
+        "status": "Status",
+        "online": "Online",
+        "ping": "Ping",
+        "session": "Session",
+        "players": "Players",
+        "techtier": "Tech Tier",
+        "state": "State",
+        "milestone": "Milestone",
+        "gamephase": "Game Phase",
+        "duration": "Duration",
+        "tickrate": "Tick Rate"
     }
 }
