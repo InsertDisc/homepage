@@ -1043,6 +1043,14 @@
         "uploads": "Uploads",
         "sharedFiles": "Files"
     },
+
+    "jellystat": {
+        "songs": "Songs",
+        "movies": "Movies",
+        "episodes": "Episodes",
+        "other": "Other"
+    },
+
     "satisfactory": {
         "serverName": "Server Name",
         "status": "Status",
